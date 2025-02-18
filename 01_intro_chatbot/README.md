@@ -28,6 +28,7 @@ You: exit
 For any questions or collaborations, reach out to:
 
 GitHub: https://github.com/LucianoLarrea/
-Email: takticfloe@gmail.com
+
+Email: takticflow@gmail.com
 
 🔹 This is the first project in the AI Chatbot Portfolio series!
