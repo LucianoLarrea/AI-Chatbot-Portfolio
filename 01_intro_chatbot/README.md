@@ -21,7 +21,9 @@ python chatbot.py
 
 ### 4️⃣ Example Interaction
 You: Hello!
+
 ChatGPT: Hi there! How can I assist you today?
+
 You: exit
 
 ## 📬 Contact
