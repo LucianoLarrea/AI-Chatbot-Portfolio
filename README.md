@@ -50,8 +50,9 @@ A chatbot integrated into multiple platforms such as Telegram, WhatsApp, and Web
    git clone https://github.com/LucianoLarrea/AI-Chatbot-Portfolio.git
 
 2. Navigate to a project folder:
-cd 01_intro_chatbot
-
+```bash
+cd AI-Chatbot-Portfolio/01_intro_chatbot
+```
 
 3. Follow the setup instructions in the respective README.md file inside each project folder.
 
