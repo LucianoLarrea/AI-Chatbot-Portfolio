@@ -47,7 +47,7 @@ A chatbot integrated into multiple platforms such as Telegram, WhatsApp, and Web
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Chatbot-Portfolio.git
+   git clone https://github.com/LucianoLarrea/AI-Chatbot-Portfolio.git
 
 2. Navigate to a project folder:
 cd 01_intro_chatbot
